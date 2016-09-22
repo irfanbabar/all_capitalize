@@ -1,9 +1,6 @@
 # StringClassExtension
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/string_class_extension`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
-
+ string_class_extension added all_capitalize method in string class. It is similar to capitalize method except it capitalize every first letter of words in sentence.
 ## Installation
 
 Add this line to your application's Gemfile:
@@ -23,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+ Use it as other string method like this 'hello world'.capitalize -> 'Hello World'
 
 ## Development
 
@@ -33,7 +30,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/string_class_extension.
+Bug reports and pull requests are welcome on GitHub at https://github.com/irfanbabar/string_class_extension.
 
 ## License
 
